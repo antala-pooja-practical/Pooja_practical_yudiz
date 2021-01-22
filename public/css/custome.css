@@ -1,0 +1,8 @@
+.error{color:#e04141}
+.top-right {float: right;
+    display: inline-flex;}
+.product-header{padding: 5px;}
+.custom-header{padding-bottom: 70px;}
+.checkout a,.checkout a:hover{color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;}
